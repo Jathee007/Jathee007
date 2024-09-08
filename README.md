@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jathee, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Jathee, a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
 - 🔭 I’m currently working on food delivery app 
